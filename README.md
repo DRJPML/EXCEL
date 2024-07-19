@@ -10,6 +10,4 @@ Derivado del análisis de datos, se observan tres aspectos:
 2. Hombres y mujeres consumen por igual, con una ligera variación de un punto porcentual a la alza en mujeres, que tampoco es significativo.
 3. El público objetivo de sus productos es adultos de 18 a 29 años, pues es el rango de edad que más ventas totales reporta.
 
-![imagen](https://github.com/user-attachments/assets/82a30cc6-b0da-4c8f-8d57-87a6b98cd036)
-
-![imagen](https://github.com/user-attachments/assets/36c087f6-27c0-445f-90a3-8398db488dd7)
+![imagen](https://github.com/user-attachments/assets/82a30cc6-b0da-4c8f-8d57-87a6b98cd036) ![imagen](https://github.com/user-attachments/assets/36c087f6-27c0-445f-90a3-8398db488dd7)
